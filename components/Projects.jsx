@@ -6,7 +6,7 @@ import cryptoImg from '../public/assets/projects/crypto.jpg'
 import netflixImg from '../public/assets/projects/netflix.jpg'
 import twitchImg from '../public/assets/projects/twitch.jpg'
 import Link from 'next/link'
-import ProjectItem from './Projectitem'
+import ProjectItem from './projectItem'
 
 function Projects() {
   return (
