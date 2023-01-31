@@ -11,7 +11,7 @@ import NextJS from '../public/assets/skills/nextjs.png'
 import NODEJS from '../public/assets/skills/node.png'
 import MongoDB from '../public/assets/skills/mongo.png'
 import Redux from '../public/assets/skills/redux.png'
-import Linux from '../public/assets/skills/Linux.png';
+import Linux from '../public/assets/skills/linux.png';
 
 const Skills = () => {
   return (
