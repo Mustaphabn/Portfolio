@@ -17,16 +17,16 @@ function Projects() {
         <div className='grid md:grid-cols-2 gap-8'>
 
         <ProjectItem
-            title='Property Finder'
+            title='Property Finder / Realtor'
             backgroundImg={propertyImg}
             projectUrl='/property'
             tech='React JS'
           />
         <ProjectItem
-            title='Crypto App'
+            title='Acme Rockets'
             backgroundImg={cryptoImg}
             projectUrl='/crypto'
-            tech='React JS'
+            tech='Tailwind and Vanilla JS'
 
           />
           <ProjectItem

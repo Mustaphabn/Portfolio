@@ -13,7 +13,7 @@ function About() {
             <h2 className='uppercase text-[#5651e5] tracking-widest'>About</h2>
             <h2 className='py-4'>Who I Am</h2>
             <p className='py-2 text-gray-600'>
-            I specialize in building mobile responsive front-end UI applications
+            I specialize in building responsive front-end UI applications
             that connect with API’s and other backend technologies. I’m
             passionate about learning new technologies and understand there is
             more than one way to accomplish a task. Though I am most proficient
@@ -23,12 +23,10 @@ function About() {
             specific language, but choosing the best tool for the job.
           </p>
           <p className='py-2 text-gray-600'>
-            I started web developement in 2013 managing multiple e-commerce
-            websites on CMS platforms such as WordPress, BigCommerce, and
-            Shopify. I have experience working directly with clients and taking
-            mock wireframes all the way to deployed applications. In my spare
-            time I run Code Commerce, a Youtube channel where I teach web
-            developement and various front-end technologies.
+          Head of Software Logistics on Behalf of BMW Group with a passion for software development.
+          I have 1.5 years of experience in software logistics, and I am seeking a software developer
+          role to continue growing in the field. I am a problem solver and enjoy finding solutions to
+          optimize the software development process.
           </p>
           <Link href='/#projects'>
             <p className='py-2 text-gray-600 underline cursor-pointer'>

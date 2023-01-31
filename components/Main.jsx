@@ -13,7 +13,7 @@ function Main() {
             <h1 className='py-4 text-gray-700'>Hi, I'm <span className='text-[#5651e5]'>Mustapha</span>
             </h1> 
             <h1 className='py-4 text-gray-700'> 
-                I'm Front-End Web Developer
+                I'm a Full-Stack JS Web Developer
             </h1>
             <p className='py-4 text-gray-600 sm:max-w-[70%] m-auto text-lg'>
             I'm a front-end web developer specializing in building (and occasionally designing) 
